@@ -1,0 +1,41 @@
+spring:
+  application:
+    name: jobhunter
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/jobhunter
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: nguyentuananhaz9@gmail.com
+    password: xasskjlbmobxzdkc
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+server:
+  port: 8088
+base-uri: file:///C:/Users/84976/Desktop/jobhunter/upload/
+expiration-access: 8640000
+expiration-refresh: 8640000
+signerKey: ODcxODJlOGI4YTdhZWNlYzE4NmRhNzQwYzQ4ZmIxOTQzODMzZDcxOWQ2OGVlNTk5MjY
+  0MTcxNTc3YTcyZmIzN2I0YmI4NmI1ZDU2NDU4YzUxZjI0MDMwM2E5MDI4YWU5YTIyMWQ5ZDNhODBhMmNhZjFkM2VlZWRhN2Y4ZWVlOTk=
+
+
+
