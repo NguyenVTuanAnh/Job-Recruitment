@@ -14,8 +14,8 @@ Job Recruitment là một phần mềm backend cung cấp các API cơ bản nh�
 
 ### 📌 1. Clone repo
 ```sh
-git clone https://github.com/yourusername/shophandmade.git
-cd shophandmade
+git clone https://github.com/NguyenVTuanAnh/Job-Recruitment.git
+cd Job-Recruitment
 ```
 
 ### 📌 2. Cài đặt Backend
@@ -30,6 +30,7 @@ mvn spring-boot:run
 ```sh
 http://localhost:8088/swagger-ui/index.html
 ```
+![image](https://github.com/user-attachments/assets/eac97b23-8e09-4f56-a426-56a69a0694c2)
 
 
 ## 🏗 Công nghệ sử dụng
@@ -39,7 +40,7 @@ http://localhost:8088/swagger-ui/index.html
 ## 📞 Liên hệ
 
 📧 Email: nguyentuananhaz9@gmail.com 
-💼 Phone: 0385129912
+💼 LinkedIn: www.linkedin.com/in/tuan-anh-nguyen-1414aa317
 
 ---
 
