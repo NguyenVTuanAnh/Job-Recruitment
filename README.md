@@ -5,10 +5,10 @@ Job Recruitment là một phần mềm backend cung cấp các API cơ bản nh�
 
 ## 🎯 Tính năng chính
 
-✅ Đăng ký & đăng nhập với JWT  
-✅ Phân quyền dựa trên JWT
-✅ Thêm, sửa, xóa, tìm kiếm hồ sơ, người dùng và công việc 
-✅ Gửi Email quảng cáo tự động
+###✅ Đăng ký & đăng nhập với JWT  
+###✅ Phân quyền dựa trên JWT
+###✅ Thêm, sửa, xóa, tìm kiếm hồ sơ, người dùng và công việc 
+###✅ Gửi Email quảng cáo tự động
 
 ## 🛠 Cách cài đặt & chạy dự án
 
